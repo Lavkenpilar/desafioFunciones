@@ -4,4 +4,4 @@
 
 /* la misma función  escrita con arrow function de una linea*/
 
-suma = (a, b ) => a + b 
+let suma = (a, b ) => a + b  
