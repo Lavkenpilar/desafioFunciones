@@ -1,0 +1,21 @@
+#box-1 {
+width: 200px;
+height: 200px;
+background-color:  blue;
+}
+#box-2 {
+    width: 200px;
+    height: 200px; 
+    background-color:  red;
+    }
+#box-3 {
+     width: 200px;
+     height: 200px;
+     background-color:  green;
+
+        }
+#box-4{
+    width: 200px;
+    height: 200px;
+    background-color:  yellow;
+        }
