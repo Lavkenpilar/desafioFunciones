@@ -19,3 +19,12 @@ background-color:  blue;
     height: 200px;
     background-color:  yellow;
         }
+#key {
+    border: 6px solid black;
+    width: 200px;
+    height: 200px;
+}
+body {
+    display: flex;
+    gap: 6px;
+}
